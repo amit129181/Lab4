@@ -1,5 +1,4 @@
-![front](h.png)
-![reciver](hh.png)
-final
-![front reply](task4.png)
-![final](twvid.gif)
+![image](ss.png)
+![image](ss2.png)
+![image](ss3.png)
+![final](twoactivities.gif)
